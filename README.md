@@ -65,14 +65,6 @@ plot_pareto_front(df_final, obj_head)
 - `crdist_calc`: Crowding distance calculator
 - `plot_pareto_front`: Visualization function
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -am 'Add improvement'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Create a Pull Request
-
 ## License
 
 This project is licensed under the MIT License.
